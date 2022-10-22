@@ -1,3 +1,7 @@
 **2022/10/21**
 
-重写cabinet-next的CabinetHeader、CabinetSearch组件界面，开始写CabinetShowList组件界面
+重写cabinet-next的头部组件、搜索框组件，开始写结果展示组件
+
+**2022/10/22**
+
+整合搜索框组件与结果展示组件，开始写过滤器的展开部分
