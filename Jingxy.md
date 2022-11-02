@@ -1,6 +1,10 @@
+**2022/11/02**
+
+自己的demo: 使用Next.js+Chakra UI+Typescript重写
+
 **2022/11/01**
 
-cabinet-next-ts: 使用Typescript覆写Header组件、List组件
+cabinet-next-ts: 使用Typescript重写Header组件、List组件
 
 
 
