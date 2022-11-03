@@ -1,3 +1,7 @@
+**2022/11/03**
+
+cabinet-next-ts: 添加媒体查询，添加LoginModal组件
+
 **2022/11/02**
 
 自己的demo: 使用Next.js+Chakra UI+Typescript重写
