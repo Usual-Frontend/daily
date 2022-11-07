@@ -1,3 +1,7 @@
+**2022/11/07**
+
+cabinet-next-ts: LoginModal组件添加API，定义全局样式
+
 **2022/11/03**
 
 cabinet-next-ts: 添加媒体查询，添加LoginModal组件
