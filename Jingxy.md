@@ -1,3 +1,7 @@
+**2022/11/08**
+
+cabinet-next-ts: LoginModal适配wagmi
+
 **2022/11/07**
 
 cabinet-next-ts: LoginModal组件添加API，定义全局样式
