@@ -1,6 +1,12 @@
+**2022/11/09**
+
+tot-web: 修正页面样式错误
+
+cabinet-next-ts: Connect组件适配wagmi HOOK
+
 **2022/11/08**
 
-cabinet-next-ts: LoginModal适配wagmi
+cabinet-next-ts: LoginModal组件适配wagmi HOOK
 
 **2022/11/07**
 
