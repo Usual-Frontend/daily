@@ -1,6 +1,10 @@
+**2022/11/10**
+
+自用demo: 多输入双向绑定，useMemo实现Vue计算属性
+
 **2022/11/09**
 
-tot-web: 修正页面样式错误
+tot-web：修正页面样式错误
 
 cabinet-next-ts: Connect组件适配wagmi HOOK
 
@@ -18,7 +22,7 @@ cabinet-next-ts: 添加媒体查询，添加LoginModal组件
 
 **2022/11/02**
 
-自己的demo: 使用Next.js+Chakra UI+Typescript重写
+自用demo: Next.js+Chakra UI+Typescript重构
 
 **2022/11/01**
 
