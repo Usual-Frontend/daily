@@ -1,3 +1,9 @@
+**2022/11/16**
+
+tot-web: 字号修正
+
+tititi: 定义全局样式，添加Header、Footer、NoramlLogin组件
+
 **2022/11/15**
 
 回顾Vue基础，修正笔记
