@@ -1,3 +1,7 @@
+**2022/11/17**
+
+tititi: 细化全局样式，整合NoramlLogin组件到Login组件，添加Reset组件
+
 **2022/11/16**
 
 tot-web: 字号修正
