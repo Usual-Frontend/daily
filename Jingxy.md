@@ -1,6 +1,10 @@
+**2022/11/18**
+
+tititi: 添加Profile组件，完成UserCard板块，并实现其响应式
+
 **2022/11/17**
 
-tititi: 细化全局样式，整合NoramlLogin组件到Login组件，添加Reset组件
+tititi: 整合NoramlLogin组件到Login组件，添加Reset组件，实现当前所有组件的响应式
 
 **2022/11/16**
 
