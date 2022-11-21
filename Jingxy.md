@@ -1,3 +1,7 @@
+**2022/11/21(在校)**
+
+tititi: 修正Profile组件Banner板块，完成List板块的Filter和ListItem
+
 **2022/11/18**
 
 tititi: 添加Profile组件，完成UserCard板块，并实现其响应式
