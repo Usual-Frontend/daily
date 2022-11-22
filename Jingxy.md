@@ -1,6 +1,10 @@
+**2022/11/22(在校)**
+
+tititi: 为List板块添加分页器（未完成）
+
 **2022/11/21(在校)**
 
-tititi: 修正Profile组件Banner板块，完成List板块的Filter和ListItem
+tititi: 修正Profile组件的Banner板块，完成List板块的Filter和ListItem
 
 **2022/11/18**
 
