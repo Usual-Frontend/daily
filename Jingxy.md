@@ -1,28 +1,32 @@
+**2022/11/24(在校)**
+
+tititi: 完成Pagination(medium)的动态翻页，实现Pagination组件和List板块的功能响应式
+
+**2022/11/23(在校)**
+
+tititi: 完成Pagination(short)的动态翻页
+
 **2022/11/22(在校)**
 
-tititi: 短分页器实现动态翻页
-
-**2022/11/22(在校)**
-
-tititi: 为List板块添加静态分页器（未完成）
+tititi: 创建静态公用组件Pagination，实现其在List板块中的布局响应式
 
 **2022/11/21(在校)**
 
-tititi: 修正Profile组件的Banner板块，完成List板块的Filter和ListItem
+tititi: 完成Profile页面的静态List板块，实现Profile页面的布局响应式
 
 **2022/11/18**
 
-tititi: 添加Profile组件，完成UserCard板块，并实现其响应式
+tititi: 完成Profile页面的Banner和UserCard板块，实现其响应式
 
 **2022/11/17**
 
-tititi: 整合NoramlLogin组件到Login组件，添加Reset组件，实现当前所有组件的响应式
+tititi: 完成Reset页面，实现Header、Footer组件和Login、Reset页面的响应式
 
 **2022/11/16**
 
 tot-web: 字号修正
 
-tititi: 定义全局样式，添加Header、Footer、NoramlLogin组件
+tititi: 定义全局样式，创建公共组件Header、Footer，完成Login页面
 
 **2022/11/15**
 
