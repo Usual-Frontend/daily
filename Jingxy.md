@@ -1,3 +1,7 @@
+**2022/11/25(在校)**
+
+tititi: 完成Favorites页面，实现其响应式
+
 **2022/11/24(在校)**
 
 tititi: 完成Pagination(medium)的动态翻页，实现Pagination组件和List板块的功能响应式
@@ -12,7 +16,7 @@ tititi: 创建静态公用组件Pagination，实现其在List板块中的布局�
 
 **2022/11/21(在校)**
 
-tititi: 完成Profile页面的静态List板块，实现Profile页面的布局响应式
+tititi: 完成Profile页面的静态List板块，实现页面的布局响应式
 
 **2022/11/18**
 
