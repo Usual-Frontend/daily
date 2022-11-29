@@ -1,6 +1,10 @@
+**2022/11/29(在校)**
+
+tititi: 动态化TiAvatar，动态化Profile页面的List板块
+
 **2022/11/28(在校)**
 
-tititi: 创建静态公用组件TiAvatar，实现Login页面登陆功能
+tititi: 创建静态公用组件TiAvatar，实现登录功能
 
 **2022/11/25(在校)**
 
