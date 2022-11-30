@@ -1,3 +1,7 @@
+**2022/11/30(在校)**
+
+tititi: SVG优化(需调整)，动态化Profile页面的UserCard板块
+
 **2022/11/29(在校)**
 
 tititi: 动态化TiAvatar，动态化Profile页面的List板块
