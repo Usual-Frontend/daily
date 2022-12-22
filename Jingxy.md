@@ -1,10 +1,14 @@
+**2022/12/22(远程)**
+
+tititi: Project页面(5/5)及其依赖，Detail页面(1/5)及其依赖
+
 **2022/12/21(远程)**
 
-tititi: Detail页面(3/5)及其依赖
+tititi: Project页面(3/5)及其依赖
 
 **2022/12/20(远程)**
 
-tititi: Detail页面(1/5)及其依赖
+tititi: Project页面(1/5)及其依赖
 
 
 
