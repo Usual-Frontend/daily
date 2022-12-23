@@ -1,14 +1,18 @@
+**2022/12/23(远程)**
+
+tititi: nft/detail页面(5/5)
+
 **2022/12/22(远程)**
 
-tititi: Project页面(5/5)及其依赖，Detail页面(1/5)及其依赖
+tititi: nft/project页面(5/5), nft/detail页面(1/5)
 
 **2022/12/21(远程)**
 
-tititi: Project页面(3/5)及其依赖
+tititi: nft/project页面(3/5)
 
 **2022/12/20(远程)**
 
-tititi: Project页面(1/5)及其依赖
+tititi: nft/project页面(1/5)
 
 
 
@@ -78,7 +82,7 @@ tot-web: bug修正（未完成）
 
 **2022/11/09**
 
-tot-web：修正页面样式错误
+tot-web: 修正页面样式错误
 
 cabinet-next-ts: Connect组件适配wagmi HOOK
 
