@@ -1,3 +1,7 @@
+**2022/12/26(远程)**
+
+tititi: Header重构, Footer重构，user/profile重构(1/3)
+
 **2022/12/23(远程)**
 
 tititi: nft/detail页面(5/5)
@@ -14,7 +18,7 @@ tititi: nft/project页面(3/5)
 
 tititi: nft/project页面(1/5)
 
-
+------
 
 **2022/11/30(远程)**
 
@@ -106,7 +110,7 @@ cabinet-next-ts: 添加媒体查询，添加LoginModal组件
 
 cabinet-next-ts: 使用Typescript重写Header组件、List组件
 
-
+------
 
 **2022/10/31**
 
