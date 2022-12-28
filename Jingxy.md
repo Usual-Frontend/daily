@@ -1,10 +1,14 @@
+**2022/12/28(远程)**
+
+tititi: user/profile重构(3/3), TiAvatar重构(1/3)
+
 **2022/12/27(远程)**
 
-tititi: user/profile重构(3/5)
+tititi: user/profile重构(2/3)
 
 **2022/12/26(远程)**
 
-tititi: Header重构, Footer重构, user/profile重构(1/5)
+tititi: Header重构, Footer重构, user/profile重构(1/3)
 
 **2022/12/23(远程)**
 
