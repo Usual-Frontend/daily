@@ -1,6 +1,10 @@
+**2022/12/29(远程)**
+
+tititi: Avatar重构(2/2), user/profile接口
+
 **2022/12/28(远程)**
 
-tititi: user/profile重构(3/3), TiAvatar重构(1/3)
+tititi: user/profile重构(3/3), Avatar重构(1/2)
 
 **2022/12/27(远程)**
 
